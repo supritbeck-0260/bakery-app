@@ -1,0 +1,42 @@
+.jumbotron {
+  background-size: cover;
+  background-position: center center;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.jumbotron h1 {
+  font-size: 4rem;
+  font-weight: bold;
+  color: #fff;
+  text-shadow: 2px 2px #000;
+}
+.jumbotron .container {
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 12px;
+}
+
+.welcome-message {
+  overflow: hidden;
+  border-right: 0.15em solid orange;
+  white-space: nowrap;
+  letter-spacing: 0.15em;
+  animation: typing 3.5s steps(30, end) forwards;
+}
+.jumbotron p {
+  font-size: 2rem;
+  color: #fff;
+  text-shadow: 2px 2px #000;
+}
+
+@keyframes typing {
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
+}

@@ -1,0 +1,14 @@
+.card {
+  width: 16rem;
+}
+.card-img-top {
+  background-size: cover;
+  background-position: center;
+  height: 16rem;
+}
+.card .card-body {
+  height: 20rem;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}

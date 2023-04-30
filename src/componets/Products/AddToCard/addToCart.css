@@ -1,0 +1,27 @@
+/* Quantity input field */
+.input-number {
+  width: 50px;
+  text-align: center;
+}
+
+/* Quantity input field buttons */
+.btn-number {
+  padding: 6px 12px;
+  height: 38px;
+  width: 30px;
+  background-color: #f5f5f5;
+  border: 1px solid #ccc;
+  margin-left: -1px;
+  color: #333;
+}
+
+.btn-number:hover,
+.btn-number:focus {
+  background-color: #ddd;
+  color: #333;
+}
+
+/* Quantity input field button icons */
+.btn-number i {
+  font-size: 10px;
+}

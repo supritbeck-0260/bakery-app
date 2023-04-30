@@ -1,0 +1,50 @@
+[
+  {
+    "id": "Chocolate_Fudge_Cake",
+    "name": "Chocolate Fudge Cake",
+    "description": "A rich and decadent chocolate cake made with real cocoa powder and topped with a creamy chocolate frosting.",
+    "image": "https://images.unsplash.com/photo-1621303837174-89787a7d4729?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1036&q=80",
+    "price": 25.99,
+    "currency": "USD"
+  },
+  {
+    "id": "Red_Velvet_Cake",
+    "name": "Red Velvet Cake",
+    "description": "A classic Southern cake with a vibrant red color and a hint of cocoa, topped with a tangy cream cheese frosting.",
+    "image": "https://images.unsplash.com/photo-1627834377411-8da5f4f09de8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1001&q=80",
+    "price": 29.99,
+    "currency": "USD"
+  },
+  {
+    "id": "Carrot_Cake",
+    "name": "Carrot Cake",
+    "description": "A moist and flavorful cake made with fresh carrots, raisins, and walnuts, topped with a smooth cream cheese frosting.",
+    "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2178&q=80",
+    "price": 27.99,
+    "currency": "USD"
+  },
+  {
+    "id": "Lemon_Blueberry_Cake",
+    "name": "Lemon Blueberry Cake",
+    "description": "A light and fluffy lemon cake studded with fresh blueberries and topped with a tangy lemon glaze.",
+    "image": "https://images.unsplash.com/photo-1542826438-bd32f43d626f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2792&q=80",
+    "price": 24.99,
+    "currency": "USD"
+  },
+  {
+    "id": "Black_Forest_Cake",
+    "name": "Black Forest Cake",
+    "description": "A classic German cake made with layers of chocolate sponge cake, fresh cream, and cherries, finished with chocolate shavings and more cherries on top.",
+    "image": "https://images.unsplash.com/photo-1558301211-0d8c8ddee6ec?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=936&q=80",
+    "price": 35.99,
+    "currency": "USD"
+  },
+  {
+    "id": "Tiramisu_Cake",
+    "name": "Tiramisu Cake",
+    "description": "An Italian dessert cake made with layers of coffee-soaked sponge cake and mascarpone cheese cream, finished with a dusting of cocoa powder on top.",
+    "image": "https://images.unsplash.com/photo-1565661834013-d196ca46e14e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=988&q=80",
+    "price": 42.99,
+    "currency": "USD"
+  }
+]

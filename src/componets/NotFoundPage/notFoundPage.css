@@ -1,0 +1,48 @@
+.display-4 {
+  font-size: 8rem;
+  font-weight: bold;
+}
+.not-found {
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 30px;
+}
+.lead {
+  font-size: 1.5rem;
+}
+
+.ladder {
+  position: relative;
+  height: 10rem;
+  width: 100%;
+}
+
+.step {
+  position: absolute;
+  bottom: 0;
+  border-radius: 5px;
+  animation: bounce 0.5s infinite alternate;
+}
+
+.step1 {
+  left: 40%;
+  animation-delay: 0s;
+}
+
+.step2 {
+  left: 47%;
+  animation-delay: 0.1s;
+}
+
+.step3 {
+  left: 54%;
+  animation-delay: 0.2s;
+}
+
+@keyframes bounce {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(-20px);
+  }
+}
